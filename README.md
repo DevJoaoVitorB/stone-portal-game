@@ -112,7 +112,7 @@ Para executar o jogo localmente, siga os passos abaixo:
 
 1. **Clone o repositório**
    ```bash
-   https://github.com/DevJoaoVitorB/Stone_Portal_Game.git
+   https://github.com/DevJoaoVitorB/stone-portal-game.git
    ```
 
 2. **Abra o projeto no Visual Studio Code**
