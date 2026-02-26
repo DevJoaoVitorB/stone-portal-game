@@ -99,7 +99,7 @@ O jogo utiliza apenas o teclado:
 - ⬅️ **Seta Esquerda** — Move o jogador para a esquerda  
 - ➡️ **Seta Direita** — Move o jogador para a direita  
 - ⬆️ **Seta para Cima** — Pulo  
-- ⬇️ **Seta para Baixo** — Interação / ações contextuais  
+- 🤚🏻 **Tecla E** — Interação  
 
 ### 🔄 Mecânica Especial
 - O jogador possui **pulo duplo**, permitindo um segundo salto no ar.
