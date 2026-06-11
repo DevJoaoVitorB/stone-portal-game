@@ -96,6 +96,7 @@ stone-portal-game/
 Antes de iniciar, você precisará ter instalado:
 
 * Navegador Web (Google Chrome, Brave ou Microsoft Edge)
+* [Git (recomendado)](https://git-scm.com/install//windows)
 * [Visual Studio Code (recomendado)](https://code.visualstudio.com/)
 * Extensão Live Server (recomendado)
 
